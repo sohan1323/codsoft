@@ -1,0 +1,8 @@
+better styles
+traditional UI is used ,new designs are expected
+better color combinations
+accuracy of navigation
+better UX
+code reusability is expected
+
+
